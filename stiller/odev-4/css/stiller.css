@@ -1,0 +1,40 @@
+.container {
+  margin: 50px;
+  margin-left: 730px;
+  border: solid 2px;
+  width: 450px;
+}
+
+
+.OrderSummary h1 {
+  padding: 28px 110px;
+  width: 450px;
+
+}
+
+
+.OrderSummary p {
+  font-family: Red Hat Display;
+font-size: 16px;
+font-weight: 500;
+line-height: 26px;
+text-align: center;
+color: #717FA6;
+}
+
+
+.OrderSummary button {
+  font-family: Red Hat Display;
+font-size: 25px;
+font-weight: 900;
+padding: 10px;
+margin-left: 110px;
+background-color: #382AE1;
+color:  #FFFFFF;
+}
+
+
+.OrderSummary a {
+padding: 182px;
+color: #717FA6;
+}

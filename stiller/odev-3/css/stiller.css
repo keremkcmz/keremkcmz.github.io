@@ -1,0 +1,26 @@
+.container {
+  margin: 70px;
+  margin-left: 800px;
+
+}
+
+.FAQs img {
+  float: left;
+  margin-left 10px;
+}
+
+.FAQs summary {
+font-size: 18px;
+font-weight: 600;
+line-height: 21.11px;
+text-align: left;
+}
+
+.FAQs h1 {
+
+font-size: 56px;
+font-weight: 700;
+line-height: 65.69px;
+margin: 50px;
+padding-left: 24px;
+}
