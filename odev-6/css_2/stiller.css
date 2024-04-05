@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  align-items: center; /* Dikeyde hizalama */
+  justify-content: center; /* Yatayda ortalamak için */
+background-color: rgb(0, 0, 139);
+}
+
+.text {
+  flex: 1; 
+  padding: 80px 215px; 
+}
+
+.image {
+  
+  padding: 0 50px; 
+}
+.text button {
+  bottom: auto;
+  background-color: #DC3545;
+  color: #FFFFFF;
+margin-left: 70px;
+}

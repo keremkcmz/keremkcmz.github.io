@@ -1,0 +1,58 @@
+* {
+  vertical-align: middle;
+}
+.rende img {
+ 
+float: left;
+}
+
+.roaddahl {
+  margin: 190px;
+  margin-right: 330px;
+font-family: Montserrat;
+font-size: 30px;
+font-weight: 700;
+width: 700px;
+
+letter-spacing: -0.3499999940395355px;
+text-align: center;
+
+}
+.section {
+  padding-left: 500px;
+}
+.roaddahl h5 {
+  padding-right: 195px;
+}
+.watch  img {
+  float: right;
+}
+.watch {
+  padding-right: 280px;
+}
+.watch p { 
+  font-family: Open Sans;
+  font-size: 16px;
+  font-weight: 400;
+  text-align: left;
+ }
+
+ .watchvideo {
+  padding: 70px;
+  position: relative;
+  width: 300px; 
+ .playtusu  
+ }
+
+ .watchvideo img {
+  width: 1040px;
+
+ }
+ .playtusu {  
+  
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+color: brown;}
+ 

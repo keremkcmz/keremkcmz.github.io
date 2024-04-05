@@ -1,0 +1,32 @@
+.container {
+
+  padding-left: 760px;
+}
+.share {
+  width: 327px;
+  height: 64px;
+  top: 514px;
+  left: 24px;
+  gap: 0px;
+  border-radius: 0px 0px 10px 10px;
+  opacity: 0px;
+  background-color: #48556A;
+}
+
+.masa h3 {
+  font-family: Manrope;
+font-size: 16px;
+font-weight: 700;
+letter-spacing: 0.20000000298023224px;
+padding-left: 30px;
+}
+
+.masa p {
+  font-family: Manrope;
+font-size: 13px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0.12187500298023224px;
+
+
+}
