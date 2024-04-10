@@ -1,0 +1,134 @@
+/* Resetleme */
+body, h1, h2, p, ul, li {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f8f8f8;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+header h1 {
+  margin: 0;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.content {
+  padding: 20px;
+  margin-top: 20px;
+}
+
+
+article {
+  background-color: #fff;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+.about-me {
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 5px;
+  margin-top: 20px;
+  background-color: orange;
+}
+
+.about-me h2 {
+  color: #333;
+  margin-bottom: 10px;
+  background-color: antiquewhite;
+}
+
+.about-me p {
+  color: #160e0e;
+  line-height: 1.6;
+  margin-bottom: 15px;
+  background-color: darkgrey;
+}
+.about-me-content {
+  display: flex;
+  align-items: center;
+}
+
+.about-me-text {
+  flex: 1;
+}
+
+.about-me-image {
+  margin-left: 20px; /* Resim ile metin arasında bir boşluk */
+}
+
+.about-me img {
+  max-width: 70%;
+  border-radius: 5px;
+}
+
+.paragraf  {
+  display: flex;
+  align-items: center;
+}
+
+.hakkımda h2 {
+    padding-left: 200px;
+}
+.paragraf p {
+  width: 900px;
+}
+ .hakkımda img{
+  max-width: 70%;
+ }
+ .hakkımda {
+  padding-left: 200px;
+  background-color: darkgrey;
+ } 
+ 
+ .iletisim  {
+  text-align: center;
+ }
+ .iletisim h1 {
+  background-color: bisque;
+ }
+ .iletisim p{
+  background-color: darkcyan;
+ }
+ .projelerim {
+  text-align: center;
+  margin-top: 50px;
+  background-color: blueviolet;
+  
+ }
+ .projelerim a button {
+  padding: 30px 200px;
+font-size: xx-large;
+ }
