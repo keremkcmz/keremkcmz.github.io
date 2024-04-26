@@ -1,0 +1,39 @@
+.footer {
+  margin-top: 50px;
+  background-color: black;
+  width: 1150px;
+  padding-left: 145px;
+  padding-right: 145px;
+  color: #FFFFFF;
+
+  }
+
+.menuitems
+{
+  margin-top: 50px;
+ display: flex; 
+  gap: 34px;
+ justify-content: flex-end;
+ opacity: 100%;
+}
+
+.audiophile {
+  display: flex;
+  align-items: baseline;
+}
+.socialmediaicons {
+  display: flex;
+  gap: 34px;
+  align-items: center;
+  padding-left: 1000px;
+}
+
+.description{
+  padding-top: 30px;
+  width: 540px;
+  margin-right: 500px;
+}
+
+.copyright{
+  margin-left: 110px;
+}

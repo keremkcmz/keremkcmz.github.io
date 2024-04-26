@@ -1,0 +1,48 @@
+.firstproduct{
+  width: 1110px;
+  background-position: left;
+  background-color: #D87D4A;
+  display: flex;
+  justify-items: left;
+  border-radius: 15px;
+}
+
+.text{
+  position: relative;
+  margin-top: 200px;
+}
+
+.text h2{
+  width: 261px;
+  size: 56px;
+  letter-spacing: 2px;
+  color: #fff;
+  font-weight: 700px;
+}
+.text p{
+  opacity: 75%;
+  width: 348px;
+  font-weight: 400px;
+  color: #fff;
+  size: 15px;
+}
+
+.text a{
+  background-color: #000000;
+  text-decoration: none;
+  color: white;
+  font-family: "Manrope", sans-serif;
+  display: inline-block;
+  border: none;
+  padding: 15px 32px;
+  margin-top: 40px;
+}
+
+.speaker {
+position: relative; 
+left: 100px;
+}
+
+.bg-image{
+  position: absolute;
+}

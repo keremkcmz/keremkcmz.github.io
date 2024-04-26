@@ -1,0 +1,43 @@
+.middle{
+  gap: 30px;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  width: 1110px;
+}
+
+.first h5,.second h5,.third h5{
+font-size: 18px;
+letter-spacing: 1.29px;
+align-items: center;
+width: 133px;
+}
+
+.first,.second,.third{
+  text-align: center;
+  margin: 100px 10px;
+  position: relative;
+  background-color: #f1f1f1;
+  width: 350px;
+  border-radius: 10px;
+}
+
+
+.middle img{
+ 
+  transform: translateY(-60%);
+}
+
+.middle a,.middle h5{
+  letter-spacing: 1.3px;
+  line-height: 25px;
+  font-size: 18px;
+}
+.middle a span{
+  color: #d87d4a;
+}
+.middle a{
+  text-decoration: none;
+  color:black;
+  opacity: 50%;
+}

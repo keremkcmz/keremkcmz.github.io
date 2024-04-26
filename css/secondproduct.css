@@ -1,0 +1,29 @@
+.secondproduct {
+  background-image:url(/assets/img/zx7-speaker.png)  ;
+ display: flex;
+ justify-content: space-between;
+ width: 910px;
+ padding: 100px;
+ margin-top: 48px;
+ border-radius: 15px;
+
+} 
+.secondproduct h3 {
+  color: #000000;
+  margin-bottom: 30px;
+  letter-spacing: 3px;
+  padding: 0px;
+  width: 160px;
+  margin-left: 75px;
+  
+
+}
+.secondproduct a{
+  text-decoration: none;
+  color: #000000;
+  border: 1px solid #000000;
+  padding: 15px 32px;
+  margin-top: 40px;
+  margin-left: -850px;
+
+}

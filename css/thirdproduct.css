@@ -1,0 +1,33 @@
+.thirdproduct{
+  margin-top: 100px;
+  border-radius: 15px;
+  width: 1110px;
+  display: flex;
+  justify-content: center;
+  margin-left: 375px;
+
+}
+
+.thirdproduct ul{
+  list-style-type: none;  
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  
+}
+.thirdproduct-text{
+  background: #F1F1F1;
+  width: 540px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+  letter-spacing: 3px;
+}
+.thirdproduct a{
+
+  text-decoration: none;
+  color: #000000;
+  border: 1px solid #000000;
+  padding: 15px 32px;
+}

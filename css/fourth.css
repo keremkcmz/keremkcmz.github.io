@@ -1,0 +1,34 @@
+.fourth {
+width: 1110px;
+margin-top: 200px;
+display: flex;
+justify-content: center;
+gap: 125px;
+}
+
+.fourth img {
+  width: 540px;
+}
+
+.fourth h1 {
+margin-left: 150px;
+
+} 
+.fourth ul {
+  list-style-type: none;  
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 30px;
+
+}
+.fourth ul h2 {
+  font-size: 40px;
+  width: 445px;
+  text-transform: uppercase;
+}
+
+.fourth ul p {
+  font-size: 15px;
+  width: 445px  ;
+}
